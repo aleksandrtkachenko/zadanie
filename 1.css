@@ -1,0 +1,45 @@
+.main{
+    border: 3px solid aqua;
+    border-radius: 6px;
+    width: 300px;
+    height: 450px;
+}
+.header{
+    height: 50px;
+    width: 300px;
+    background: aqua;
+    text-align: right;
+    overflow: hidden;
+    margin: 15px 0px;
+}
+.cassio{
+    color: white;
+}
+.input_text{
+    border: 3px solid aqua;
+    border-radius: 6px;
+    width: 280px;
+    height: 30px;
+    margin: 7px;
+}
+.block{
+    background: aqua;
+    height: 30px;
+    width: 80px;
+    float: right;
+    margin: 0px 0px 0px 0px;
+}
+.main2{
+    clear: both;
+}
+.cal_1{
+    float: right;
+    border: 3px solid aqua;
+    border-radius: 6px;
+    width: 40px;
+    height: 40px;
+    color: aqua;
+    text-align: center;
+    line-height: 40px;
+    margin: 13px;
+}
